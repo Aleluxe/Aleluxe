@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Aleluxe
+- 👀 I’m interested in basketball, codeing, playing guitar and videogames;
+- 🌱 I’m currently learning java, C, C++ and C#;
+- 📫 I spend my free time to my hobbies;
+- My goal is to become a proffesional in programming;
+- IDK what to say:)
